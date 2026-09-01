@@ -1,3 +1,5 @@
+// Basics - Introducting outputs and commenting
+
 #include <iostream>
 // "#include" acts basically import in Java or Python, in a superficial level.
 // "iostream" is a headerfile that contains functions for basic i/o operations.
