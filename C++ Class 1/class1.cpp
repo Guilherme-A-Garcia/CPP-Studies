@@ -1,4 +1,4 @@
-// Basics - Introducting outputs and commenting
+// Basics - Introducing outputs and commenting
 
 #include <iostream>
 // "#include" acts basically import in Java or Python, in a superficial level.
