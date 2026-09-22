@@ -1,4 +1,4 @@
-// Application flow - Ternary operator
+// Application Flow - Ternary operator
 
 
 #include <iostream>
